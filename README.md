@@ -3,7 +3,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=7&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=1&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=7&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=1&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
 </div>
 
 ###
@@ -57,10 +57,12 @@
 
 ###
 
+<br clear="both">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoreiraVG/MoreiraVG/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoreiraVG/MoreiraVG/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MoreiraVG/MoreiraVG/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoreiraVG/MoreiraVG/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoreiraVG/MoreiraVG/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MoreiraVG/MoreiraVG/pacman-output/galaga-contribution-graph.svg">
 </picture>
 
 ###
