@@ -9,8 +9,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MoreiraVG/MoreiraVG/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/MoreiraVG/MoreiraVG/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoreiraVG&show_icons=true&theme=gruvbox" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraVG&layout=compact&theme=gruvbox" height="150" alt="languages graph" />
 </div>
 
 ###
