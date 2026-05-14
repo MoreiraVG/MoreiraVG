@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 👋 Olá! Sou o Vitor — transformando ideias em código desde o dia que descobri que bugs são só features surpresa.
+### Olá! Sou o Vitor, transformando ideias em código desde o dia que descobri que bugs são só features surpresa.
 
 </div>
 
