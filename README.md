@@ -14,9 +14,13 @@
 
 ---
 
-## 🧠 Sobre mim
+<div align="center">
+  <img src="https://media2.giphy.com/media/dJo9h2zrdANo1GO3pd/giphy.gif" height="220" alt="Spider-Man" />
+</div>
 
-<img align="right" height="200" src="https://media2.giphy.com/media/dJo9h2zrdANo1GO3pd/giphy.gif" alt="Spider-Man" style="border-radius: 12px;" />
+---
+
+## 🧠 Sobre mim
 
 ```python
 class Vitor:
@@ -30,8 +34,6 @@ class Vitor:
     def contato(self):
         return "vitor0moreira09@gmail.com"
 ```
-
-<br clear="right"/>
 
 ---
 
