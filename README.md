@@ -16,6 +16,8 @@
 
 ## 🧠 Sobre mim
 
+<img align="right" height="200" src="https://media2.giphy.com/media/dJo9h2zrdANo1GO3pd/giphy.gif" alt="Spider-Man" style="border-radius: 12px;" />
+
 ```python
 class Vitor:
     nome       = "Vitor Guilherme Moreira Corrêa"
@@ -28,6 +30,8 @@ class Vitor:
     def contato(self):
         return "vitor0moreira09@gmail.com"
 ```
+
+<br clear="right"/>
 
 ---
 
